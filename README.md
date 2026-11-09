@@ -1,36 +1,80 @@
-# Hi, I'm Vernit Gupta
+<h1 align="center">Hi, I'm Vernit Gupta</h1>
+<p align="center"><b>2nd-year CS student · Learning in public · Building things</b></p>
+<p align="center">
+  <img alt="GSSoC Contributor" src="https://img.shields.io/badge/GSSoC-Contributor-2ea44f?style=flat-square">
+  <img alt="Open Source" src="https://img.shields.io/badge/Open_Source-Contributor-2088ff?style=flat-square">
+  <img alt="DSA Practice" src="https://img.shields.io/badge/DSA-Regular_Practice-f59e0b?style=flat-square">
+</p>
 
-### Exploring ideas. Building projects. Learning along the way.
+## About
 
-I'm based in Bangalore and learning software development through hands-on projects and collaboration. My work so far includes web applications, AI-powered tools, and interactive visualizations.
+I'm a second-year computer science student, exploring software development through projects and collaboration. I've contributed to open source through **GSSoC**, and I want to keep learning from maintainers and contributing to useful projects. Alongside building, I practice DSA regularly and work on strengthening my foundations.
 
-I'm still building my foundations, one project at a time.
+## What I'm into
 
-## What I'm exploring
+- **Web development** — building interfaces and connecting them with APIs.
+- **Backend & databases** — learning FastAPI, PostgreSQL, and data modelling through projects.
+- **Open source** — understanding existing code, fixing bugs, and adding features.
+- **DSA** — regular problem-solving practice.
 
-- **Web development** — connecting interfaces with APIs and understanding how applications fit together.
-- **AI-powered tools** — experimenting with ways to make information easier to use.
-- **Simulation and visualization** — turning complex ideas into something interactive.
-- **Collaborative development** — reading existing code, debugging, and working through pull requests.
+## Tech stack
 
-## Selected projects
+Tools I'm learning and using in my projects.
 
-| Project | What it's about |
-| --- | --- |
-| [SurakshaMitra](https://github.com/guptavernit2-afk/SurakshaMitra) | A team project exploring industrial disaster threat-zone visualization with interactive maps and a Python backend. |
-| [CatchUp](https://github.com/guptavernit2-afk/CatchUp) | Conversation briefings with source-linked summaries, decisions, tasks, and open questions. |
-| [Optimizer Visual Lab](https://github.com/guptavernit2-afk/idp-optimizer-visual-lab) | An interactive lab for comparing gradient descent optimizers on benchmark loss landscapes. |
+**Languages**<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square)
 
-I've also contributed to [hackoween](https://github.com/parasmani-dev/hackoween), working on the engine API, run controls, and simulation fixes.
+**Web & Backend**<br>
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
 
-## Learning through projects
+**Databases**<br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
+![IndexedDB](https://img.shields.io/badge/IndexedDB-4B5563?style=flat-square)
 
-**Web:** HTML, CSS, JavaScript  
-**Backend:** Python, FastAPI  
-**Workflow:** Git, GitHub
+**Tools**<br>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
-These are tools I'm learning and using as I build.
+## Things I've built
+
+A mix of personal projects and team contributions.
+
+| Project | What it's about | Stack |
+| --- | --- | --- |
+| [SurakshaMitra](https://github.com/guptavernit2-afk/SurakshaMitra) | Team prototype for visualising industrial-disaster threat zones on interactive maps. | Python, FastAPI, Leaflet |
+| [CatchUp](https://github.com/guptavernit2-afk/CatchUp) · [Live](https://catchup-workspace.vercel.app/) | Turns conversations into source-linked briefings, decisions, tasks, and open questions. | JavaScript, WebLLM, IndexedDB |
+| [MediWatch Live](https://github.com/guptavernit2-afk/mediwatch-live) | Patient-vitals dashboard prototype with a serial bridge and Slack alerts. | Python, FastAPI, Chart.js |
+| [hackoween / Rover Fetch](https://github.com/parasmani-dev/hackoween) | Team rover-simulation project; I contributed engine APIs, run controls, and simulation fixes. | Python, HTTP APIs, Webots |
+
+## Open source
+
+I contributed through **GSSoC** and want to keep going. A few merged contributions:
+
+- [pdf-qa-bot #50](https://github.com/FireFistisDead/pdf-qa-bot/pull/50) — added a relevance threshold for RAG answers.
+- [PixelTruth #31](https://github.com/Piyush-Sharma788/PixelTruth/pull/31) — added an uncertain state for low-confidence predictions.
+- [AegisAI #249](https://github.com/SdSarthak/AegisAI/pull/249) — added a static analytics dashboard.
+- [CricScope #44](https://github.com/Arnav-Singh-5080/CricScope/pull/44) — added match-state validation before prediction.
+- [Smart-Pilgrims-Assistant-App #48](https://github.com/Harsh-2006-git/Smart-Pilgrims-Assistant-App/pull/48) — prevented duplicate SOS submissions.
+
+[View all merged PRs →](https://github.com/search?q=author%3Aguptavernit2-afk+is%3Apr+is%3Amerged&type=pullrequests)
+
+## DSA
+
+I practice DSA regularly to strengthen my problem-solving fundamentals alongside project work.
+<!-- TODO: Add verified LeetCode / Codeforces / GfG / CodeChef profile links. -->
 
 ---
 
-[Explore my repositories](https://github.com/guptavernit2-afk?tab=repositories) · [See my contributions](https://github.com/guptavernit2-afk?tab=overview)
+<p align="center"><a href="https://github.com/guptavernit2-afk">GitHub</a></p>
+<!-- TODO: Add verified LinkedIn, X, and public contact email links. -->
+<p align="center"><i>Explore. Learn. Build. Contribute.</i></p>
