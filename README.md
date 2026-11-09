@@ -22,6 +22,8 @@ I'm a second-year computer science student, exploring software development throu
 Tools I'm learning and using in my projects.
 
 **Languages**<br>
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -31,7 +33,10 @@ Tools I'm learning and using in my projects.
 **Web & Backend**<br>
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-4B5563?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
 
@@ -68,13 +73,10 @@ I contributed through **GSSoC** and want to keep going. A few merged contributio
 
 [View all merged PRs →](https://github.com/search?q=author%3Aguptavernit2-afk+is%3Apr+is%3Amerged&type=pullrequests)
 
-## DSA
-
-I practice DSA regularly to strengthen my problem-solving fundamentals alongside project work.
-<!-- TODO: Add verified LeetCode / Codeforces / GfG / CodeChef profile links. -->
-
 ---
 
-<p align="center"><a href="https://github.com/guptavernit2-afk">GitHub</a></p>
-<!-- TODO: Add verified LinkedIn, X, and public contact email links. -->
+## Connect
+
+[GitHub](https://github.com/guptavernit2-afk) · [LinkedIn](https://www.linkedin.com/in/vernit-gupta-81986b320/) · [X](https://x.com/VernitGupt74487) · [Gmail](mailto:guptavernit2@gmail.com)
+
 <p align="center"><i>Explore. Learn. Build. Contribute.</i></p>
