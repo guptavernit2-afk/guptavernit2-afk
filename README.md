@@ -1,4 +1,9 @@
-<h1 align="center">Hi, I'm Vernit Gupta</h1>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;duration=2800&amp;pause=2500&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=520&amp;height=65&amp;lines=Hi%2C+I%27m+Vernit+Gupta">
+    <img alt="Hi, I'm Vernit Gupta" src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;duration=2800&amp;pause=2500&amp;color=0969DA&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=520&amp;height=65&amp;lines=Hi%2C+I%27m+Vernit+Gupta" width="520" height="65">
+  </picture>
+</p>
 <p align="center"><b>2nd-year CS student · Learning in public · Building things</b></p>
 <p align="center">
   <img alt="GSSoC Contributor" src="https://img.shields.io/badge/GSSoC-Contributor-2ea44f?style=flat-square">
