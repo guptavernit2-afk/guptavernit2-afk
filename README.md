@@ -77,6 +77,9 @@ I contributed through **GSSoC** and want to keep going. A few merged contributio
 
 ## Connect
 
-[GitHub](https://github.com/guptavernit2-afk) · [LinkedIn](https://www.linkedin.com/in/vernit-gupta-81986b320/) · [X](https://x.com/VernitGupt74487) · [Gmail](mailto:guptavernit2@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/guptavernit2-afk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/vernit-gupta-81986b320/)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/VernitGupt74487)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:guptavernit2@gmail.com)
 
 <p align="center"><i>Explore. Learn. Build. Contribute.</i></p>
